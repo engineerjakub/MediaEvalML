@@ -1,4 +1,5 @@
 # MediaEvalML
+The modern world blurs the lines between what is real and what is misinformation. The increasing usage of bots and A.I to spread false narratives is a problem with high stakes. A large majority of people use websites such as X.com (Twitter) for news and for public discussion. How do we ensure, with the unfathomable amount of data uploaded onto Twitter each day, that misinformation isn't being maliciously spread onto the feeds of the users? One answer is via the use of fake detectors.
 
 In this project, two ML pipelines are created for a dataset containing real and fake media. These algorithms aim to classify and distinguish the real/fake media in the test set. 
 
